@@ -2,7 +2,7 @@ This system is built using MongoDB, Express.js, Node.js for the backend, and Rea
 
 After the user logs in, the system securely generates a token using JWT. Once authenticated, the system extracts quotes and their authors from a website using Cheerio.
 
-The extracted data is then stored in MongoDB and displayed on a simple dashboard in the frontend.
+The data are displayed on a simple dashboard in the frontend.
 
 The dashboard shows:
 
